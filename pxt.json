@@ -1,5 +1,5 @@
 {
-    "name": "Servo",
+    "name": "Neopixel had",
     "description": "",
     "dependencies": {
         "core": "*",
